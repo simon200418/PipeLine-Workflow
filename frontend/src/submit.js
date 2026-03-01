@@ -1,5 +1,5 @@
 export async function submitPipeline(nodes, edges) {
-  const response = await fetch("https://your-render-url.onrender.com/pipelines/parse", {
+  const response = await fetch("https://pipeline-workflow.onrender.com/pipelines/parse", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
