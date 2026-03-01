@@ -55,38 +55,6 @@ Creates a new input handle for `name`.
 - Python
 
 ---
-
-## 📂 Project Structure
-Creates a new input handle for `name`.
-
-### ✅ LLM Node
-- Mock LLM processing (simulated transformation)
-- Demonstrates processing capability in pipeline
-
-### ✅ Part 4: Backend Integration
-- Frontend sends `nodes` and `edges` to backend
-- Backend calculates:
-  - Number of nodes
-  - Number of edges
-  - Whether the pipeline forms a DAG
-- Frontend displays response in a user-friendly alert
-
----
-
-## 🏗️ Tech Stack
-
-### Frontend
-- React (Vite)
-- React Flow
-- Tailwind CSS
-
-### Backend
-- FastAPI
-- Uvicorn
-- Python
-
----
-
 ## 📂 Project Structure
 Pipeline_Workflow/
 │
