@@ -46,7 +46,7 @@ Creates a new input handle for `name`.
 
 ### Frontend
 - React (Vite)
-- React Flow
+- React Flow(React Library)
 - Tailwind CSS
 
 ### Backend
@@ -90,7 +90,6 @@ Pipeline_Workflow/
 ## 🖥️ Running Locally
 
 ### Backend
-
 
 cd backend
 pip install -r requirements.txt
